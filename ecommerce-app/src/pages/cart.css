@@ -1,0 +1,26 @@
+.cart {
+    display: flex;
+  }
+  
+  .cart-container {
+    display: flex;
+    width: 78%;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .summary {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: 10px;
+    height: 86vh;
+  }
+
+  .title {
+    font-size: 30px;
+  }
