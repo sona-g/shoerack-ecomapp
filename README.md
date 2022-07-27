@@ -9,7 +9,7 @@ The project was my first react project. Being from a retail space I felt extreml
 The App is built to browse products, see product details, add to wishlist and add to cart. The product quantity can be changed in cart as well as from navbar.
 
 ## Run the app
-The app can run using 'npm start' for both the client and the server. 
+The app can run on http://ecom-app-kappa.vercel.app/ 
 
 ## Summary
 The project gave me a good understanding in React state management and integrating multiple features. In future I plan to add filters n search features.
