@@ -6,7 +6,7 @@ A REACT project (frontend only) using ASOS API.
 
 ## Description
 The project was my first react project. Being from a retail space I felt extremly passionate about creating an ecommerce platform from scratch.
-The App is built to browse products, see product details, add to wishlist and add to cart. The product quantity can be changed in cart as well as from navbar.
+The App is built to browse products, see product details, add to wishlist and add to cart. The product quantity can be changed in cart as well as from navbar. And lastly, the app uses bootstrap framework.
 
 ## Run the app
 The app can run on https://ecom-app-sona-g.vercel.app/ 
